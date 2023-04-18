@@ -1,0 +1,15 @@
+D:\ВА\ВА3\ВА3\bin\Debug\net6.0\ВА3.exe
+D:\ВА\ВА3\ВА3\bin\Debug\net6.0\ВА3.deps.json
+D:\ВА\ВА3\ВА3\bin\Debug\net6.0\ВА3.runtimeconfig.json
+D:\ВА\ВА3\ВА3\bin\Debug\net6.0\ВА3.dll
+D:\ВА\ВА3\ВА3\bin\Debug\net6.0\ВА3.pdb
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.csproj.AssemblyReference.cache
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.AssemblyInfoInputs.cache
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.AssemblyInfo.cs
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.csproj.CoreCompileInputs.cache
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.dll
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\refint\ВА3.dll
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.pdb
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ВА3.genruntimeconfig.cache
+D:\ВА\ВА3\ВА3\obj\Debug\net6.0\ref\ВА3.dll
